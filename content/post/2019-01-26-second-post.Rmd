@@ -1,0 +1,12 @@
+---
+title: Second Post
+author: Eric Ross
+date: '2019-01-26'
+slug: second-post
+categories: []
+tags: []
+---
+
+# Second Post
+
+I need two posts as a test
