@@ -1,6 +1,6 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
+title: "First Post"
+author: "Eric Ross"
 date: 2019-01-26T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown"]
